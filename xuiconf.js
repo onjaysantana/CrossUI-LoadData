@@ -2,7 +2,7 @@
 
 // [[Page Appearance
 xui.ini.$PageAppearance = {
-    "theme" : "darkblue"
+    "theme" : "webflat"
 };
 // ]]Page Appearance
 
