@@ -2,7 +2,7 @@
 
 // [[Page Appearance
 xui.ini.$PageAppearance = {
-    "theme" : "moonify"
+    "theme" : "classic"
 };
 // ]]Page Appearance
 
@@ -18,3 +18,9 @@ xui.ini.$DevEnv = {
     }
 };
 // ]]Develop Env Setting
+
+
+// [[Global Functions
+xui.$cache.functions = {
+};
+// ]]Global Functions
