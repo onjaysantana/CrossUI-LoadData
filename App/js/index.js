@@ -58,7 +58,7 @@ xui.Class('App', 'xui.Module',{
                         "caption" : "Load data from XML"
                     }
                 ])
-                .setBarSize("2.3333333333333335em")
+                .setBarSize("4em")
                 .setValue("json")
                 .onIniPanelView([
                     {
