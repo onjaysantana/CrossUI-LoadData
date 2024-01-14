@@ -2,7 +2,7 @@
 
 // [[Page Appearance
 xui.ini.$PageAppearance = {
-    "theme" : "classic"
+    "theme" : "vista"
 };
 // ]]Page Appearance
 
@@ -18,8 +18,6 @@ xui.ini.$DevEnv = {
     }
 };
 // ]]Develop Env Setting
-
-
 // [[Global Functions
 xui.$cache.functions = {
 };
