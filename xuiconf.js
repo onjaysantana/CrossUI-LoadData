@@ -2,15 +2,13 @@
 
 // [[Page Appearance
 xui.ini.$PageAppearance = {
-    "theme" : "webflat"
+    "theme" : "moonify"
 };
 // ]]Page Appearance
-
 
 // [[Font Icons CDN
 
 // ]]Font Icons CDN
-
 
 // [[Develop Env Setting
 xui.ini.$DevEnv = {
